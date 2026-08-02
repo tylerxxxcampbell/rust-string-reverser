@@ -1,2 +1,4 @@
-# rust-string-reverser
+# Rust String Reverser
+
 Reversing string array characters in Rust.
+
